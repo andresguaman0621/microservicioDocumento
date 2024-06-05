@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-DocumentoApplication<empresa>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.evalueytor.documento.DocumentoApplication",
+      "projectName": "empresa",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
